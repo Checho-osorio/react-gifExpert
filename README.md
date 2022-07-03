@@ -1,6 +1,6 @@
 # GifExpertApp
 
-Este es mi repositorio del proyecto de GitExpertAPp de React
+Este es mi repositorio del proyecto de GitExpertApp de React
 
 Curso de UDEMY del instructor Fernando Herrera
 
